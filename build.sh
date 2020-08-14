@@ -1,0 +1,1 @@
+zip -r barely-processing_0.0.1.zip . -x "*git*" -x "*.sh" -x "*.zip"
