@@ -1,1 +1,0 @@
-zip -r "barely-processing_$(jq -r ".version" info.json).zip" . -x "*git*" -x "*.sh" -x "*.zip"
