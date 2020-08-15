@@ -43,7 +43,7 @@ data:extend({
   results=
   {
       {type="item", name="sulfur", amount=5},
-      {type="item", name="empty-barrel", amount=2}
+      {type="item", name="empty-barrel", amount=6}
   },
   allow_decomposition = false,
   hide_from_player_crafting = true
